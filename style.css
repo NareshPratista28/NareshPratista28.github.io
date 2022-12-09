@@ -1,0 +1,30 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.mycontainer{
+    color: white;
+    width: 300px;
+    height: 200px;
+
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deserto_libico_-_Driving_-_panoramio.jpg/300px-Deserto_libico_-_Driving_-_panoramio.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+
+    text-align: center;
+    padding-top: 40px;
+}
+
+.wrap{
+    margin: auto;
+    width: 300px;
+    
+}
+
+.mybtn{
+    width: 300px;
+    height: 50px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
